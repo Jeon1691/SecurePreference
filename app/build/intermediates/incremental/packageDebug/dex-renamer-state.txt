@@ -1,0 +1,7 @@
+#Mon Oct 23 10:47:33 KST 2017
+base.0=/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2abb381250a0531544ee828bfa174393ae351d3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21d42352094d4674e4eeefd9af6d3057ea8827c4/classes.dex
+base.1=/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21d42352094d4674e4eeefd9af6d3057ea8827c4
+file.0=/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2abb381250a0531544ee828bfa174393ae351d3/classes.dex

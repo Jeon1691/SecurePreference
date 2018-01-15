@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="87caf64146ac3aa7b4fea10ba89bf3eb30f1defd">
+        <dex dex="/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21d42352094d4674e4eeefd9af6d3057ea8827c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2abb381250a0531544ee828bfa174393ae351d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeonseung-il/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/e34fe80c9714240525f665113dd3749415515655/kotlin-stdlib-1.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.51_cd092298fdc0b98ff92513f9761be50c85fa8a05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeonseung-il/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.51/8b5933578dc55f32cfc1a25f1db6371e4161fb8f/kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="/Users/jeonseung-il/Dropbox/AndroidProjects/SecurePreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.51_2cc3aacb6fdb07637055075b66dcb483f846e2f8/classes.dex" />
+    </item>
+
+</items>
